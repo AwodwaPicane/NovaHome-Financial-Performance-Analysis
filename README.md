@@ -91,3 +91,26 @@ Salaries & Wages represented the largest contributor to the increase in operatin
 Salary costs increased by approximately R4.51 million between 2022 and 2026 and accounted for approximately 39% of the total increase in operating expenses.
 
 Marketing, logistics and rent were also significant contributors, indicating that cost pressure was broader than a single expense category.
+## Recommendations
+
+Based on the analysis, the following areas should be considered by management:
+
+### 1. Review Operating Cost Growth
+
+Operating expenses grew faster than revenue over the period, contributing to the decline in EBITDA margin. Management should review the operating cost base and identify opportunities to improve cost efficiency without negatively affecting business growth.
+
+### 2. Investigate Salary & Wage Growth
+
+As Salaries & Wages accounted for approximately 39% of the total increase in operating expenses, management should investigate the drivers of payroll growth, including headcount, salary increases and workforce requirements.
+
+The objective should not simply be to reduce staff costs, but to determine whether the growth in payroll is generating sufficient operational and financial value.
+
+### 3. Continue Developing the Online Channel
+
+Online revenue grew by approximately 194% and increased its contribution to total revenue from 28% to 42%.
+
+Management should continue supporting the online channel while monitoring its profitability, fulfilment costs and logistics requirements to ensure that revenue growth also contributes positively to margins.
+
+### 4. Focus on Profitable Growth
+
+Revenue growth alone should not be the primary measure of performance. Management should monitor EBITDA margin and operating expenses alongside revenue growth to ensure that future expansion translates into stronger profitability.
