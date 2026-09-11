@@ -30,3 +30,24 @@ The analysis aimed to answer the following questions:
 - **Financial Analysis** — Revenue growth, profitability, margin and operating expense analysis
 - **Data Visualisation** — Management-focused financial reporting and dashboard design# NovaHome-Financial-Performance-Analysis
 Financial performance analysis and Power BI dashboard for a simulated retail company, covering revenue growth, profitability and operating cost drivers from 2022–2026.
+## Analysis Approach
+
+The project followed a structured financial analysis process:
+
+1. **Data Understanding & Validation**  
+   Reviewed the structure and level of detail of the sales, expense and income statement data before beginning the analysis.
+
+2. **Excel Analysis**  
+   Used PivotTables and calculations to analyse revenue, gross profit, operating expenses, EBITDA and net profit across the 2022–2026 period. Results were also analysed by sales channel, product category and region.
+
+3. **Performance & Driver Analysis**  
+   Compared revenue and cost growth, analysed profitability margins and investigated the factors contributing to changes in financial performance.
+
+4. **Power BI Data Modelling**  
+   Built a Power BI model connecting the relevant sales, expense and dimension tables to support interactive analysis.
+
+5. **DAX Measures**  
+   Created measures for key financial KPIs including Total Revenue, Gross Margin %, EBITDA, EBITDA Margin %, YoY Revenue Growth and Net Profit.
+
+6. **Dashboard Development**  
+   Developed an interactive Financial Performance Dashboard to present trends, KPIs and performance drivers, supported by a separate Management Insights page highlighting the most important findings.
