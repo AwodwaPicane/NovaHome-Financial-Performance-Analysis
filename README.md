@@ -114,3 +114,12 @@ Management should continue supporting the online channel while monitoring its pr
 ### 4. Focus on Profitable Growth
 
 Revenue growth alone should not be the primary measure of performance. Management should monitor EBITDA margin and operating expenses alongside revenue growth to ensure that future expansion translates into stronger profitability.
+## What I Learned
+
+Before completing this project, I had experience working with finished Power BI dashboards, but I had not built one from the ground up. This project helped me understand what happens behind a finished dashboard — from understanding and validating the raw data, to building the data model, creating DAX measures, designing visuals and finally translating the results into management insights.
+
+One of my biggest takeaways was learning to look beyond the total value of a financial metric. A number being large or increasing does not necessarily mean that performance is improving. For example, NovaHome's revenue grew strongly, but analysing operating expenses and profitability margins showed that the company's growth was not translating into proportional improvements in profitability.
+
+The project also helped me become more confident in financial analysis and Excel, particularly when identifying trends, comparing growth rates, analysing margins and investigating the drivers behind financial performance.
+
+I am still developing my Power BI skills, particularly in data modelling and DAX, but completing this project has given me a much stronger understanding of the full process of turning raw financial data into a dashboard that can support business decision-making.
