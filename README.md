@@ -64,3 +64,30 @@ The Financial Performance Dashboard provides an interactive overview of NovaHome
 The Management Insights page summarises the key findings from the analysis, focusing on revenue and channel growth, profitability pressure and the main operating cost drivers.
 
 ![NovaHome Management Insights](NovaHome_Management_Insights.png)
+## Key Findings
+
+### 1. Strong Revenue Growth, Led by Online Sales
+
+NovaHome's revenue increased from approximately R31.1 million in 2022 to R61.1 million in 2026, representing growth of approximately 97%.
+
+Online revenue grew significantly faster, increasing by approximately 194% over the same period. As a result, online sales increased their share of total revenue from approximately 28% in 2022 to 42% in 2026.
+
+This indicates that the online channel became an increasingly important contributor to NovaHome's growth.
+
+### 2. Revenue Growth Did Not Translate Into Stronger Profitability
+
+Despite strong revenue growth, NovaHome experienced increasing profitability pressure.
+
+Gross margin remained relatively stable at approximately 39.4%, suggesting that gross profitability was not the main source of the deterioration.
+
+However, operating expenses increased by approximately 137% between 2022 and 2026, significantly faster than revenue growth of 97%.
+
+As a result, EBITDA margin declined from approximately 12.4% in 2022 to 6.9% in 2026.
+
+### 3. Salaries & Wages Were the Largest Cost-Growth Driver
+
+Salaries & Wages represented the largest contributor to the increase in operating expenses.
+
+Salary costs increased by approximately R4.51 million between 2022 and 2026 and accounted for approximately 39% of the total increase in operating expenses.
+
+Marketing, logistics and rent were also significant contributors, indicating that cost pressure was broader than a single expense category.
