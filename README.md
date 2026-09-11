@@ -51,3 +51,16 @@ The project followed a structured financial analysis process:
 
 6. **Dashboard Development**  
    Developed an interactive Financial Performance Dashboard to present trends, KPIs and performance drivers, supported by a separate Management Insights page highlighting the most important findings.
+## Dashboard
+
+### Financial Performance Overview
+
+The Financial Performance Dashboard provides an interactive overview of NovaHome's revenue, profitability, operating expenses and key performance drivers from 2022 to 2026.
+
+![NovaHome Financial Performance Dashboard](NovaHome_Financial_Performance_Dashboard.png)
+
+### Management Insights
+
+The Management Insights page summarises the key findings from the analysis, focusing on revenue and channel growth, profitability pressure and the main operating cost drivers.
+
+![NovaHome Management Insights](NovaHome_Management_Insights.png)
